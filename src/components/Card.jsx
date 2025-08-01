@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import GithubIcon from "../icons/GithubIcon";
+import { GithubIcon } from "../icons/SocialIcon";
 
 export default function Card({ title, description, technologies, repoUrl }) {
   const cardRef = useRef(null);

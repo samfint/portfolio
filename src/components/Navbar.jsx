@@ -1,7 +1,9 @@
-import GithubIcon from "../icons/GithubIcon";
-import LinkedinIcon from "../icons/LinkedinIcon";
-import XIcon from "../icons/XIcon";
-import EmailIcon from "../icons/EmailIcon";
+import {
+  GithubIcon,
+  LinkedinIcon,
+  XIcon,
+  EmailIcon,
+} from "../icons/SocialIcon";
 
 export default function Navbar() {
   return (
